@@ -1,61 +1,115 @@
-<mxfile host="app.diagrams.net" modified="2023-01-24T21:52:03.393Z" agent="5.0 (Windows)" etag="mL6RAadZ3IeaNxwBvrvo" version="20.8.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-24T22:09:07.290Z" agent="5.0 (Windows)" etag="KvNoID0Jv9OYvTU54cfz" version="20.8.11" type="github">
   <diagram name="Page-1" id="qNks2tY5SsdPoUxaN__0">
-    <mxGraphModel dx="473" dy="324" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="452" dy="310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3zHVbhgSwmODAuP6RIVM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="3zHVbhgSwmODAuP6RIVM-1" target="3zHVbhgSwmODAuP6RIVM-4" edge="1">
+        <mxCell id="DYCgU-3iIGWhfeMWR1PB-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;" edge="1" parent="1" source="3zHVbhgSwmODAuP6RIVM-1" target="DYCgU-3iIGWhfeMWR1PB-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3zHVbhgSwmODAuP6RIVM-1" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;" parent="1" vertex="1">
-          <mxGeometry x="50" y="310" width="50" height="50" as="geometry" />
+          <mxGeometry x="15" y="319.38" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3zHVbhgSwmODAuP6RIVM-2" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;" parent="1" vertex="1">
-          <mxGeometry x="770" y="310" width="50" height="50" as="geometry" />
+          <mxGeometry x="770" y="262.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3zHVbhgSwmODAuP6RIVM-3" value="Students" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="45" y="360" width="60" height="30" as="geometry" />
+          <mxGeometry y="344.38" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DYCgU-3iIGWhfeMWR1PB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3zHVbhgSwmODAuP6RIVM-4" target="DYCgU-3iIGWhfeMWR1PB-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3zHVbhgSwmODAuP6RIVM-4" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;taskMarker=abstract;" parent="1" vertex="1">
-          <mxGeometry x="140" y="302.5" width="140" height="65" as="geometry" />
+          <mxGeometry x="160" y="310" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3zHVbhgSwmODAuP6RIVM-8" value="Decide if they want to e-mail or send the form directly" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="150" y="320" width="120" height="30" as="geometry" />
+        <mxCell id="3zHVbhgSwmODAuP6RIVM-8" value="Decide if they want to e-mail or send the form directly" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="160" y="320" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DYCgU-3iIGWhfeMWR1PB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.039;entryY=0.577;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DYCgU-3iIGWhfeMWR1PB-1" target="DYCgU-3iIGWhfeMWR1PB-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="335.06976744186045" as="targetPoint" />
+            <mxPoint x="345" y="335.06976744186045" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DYCgU-3iIGWhfeMWR1PB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.039;entryY=0.484;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DYCgU-3iIGWhfeMWR1PB-1" target="DYCgU-3iIGWhfeMWR1PB-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="230" as="targetPoint" />
+            <mxPoint x="355" y="230" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="345" y="230" />
-              <mxPoint x="415" y="230" />
+              <mxPoint x="290" y="230" />
+              <mxPoint x="360" y="230" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="DYCgU-3iIGWhfeMWR1PB-1" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" vertex="1" parent="1">
-          <mxGeometry x="320" y="310" width="50" height="50" as="geometry" />
+          <mxGeometry x="265" y="310" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DYCgU-3iIGWhfeMWR1PB-3" value="Mode of delivery" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="315" y="367.5" width="60" height="30" as="geometry" />
+        <mxCell id="DYCgU-3iIGWhfeMWR1PB-3" value="Mode of delivery" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="260" y="367.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DYCgU-3iIGWhfeMWR1PB-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DYCgU-3iIGWhfeMWR1PB-4" target="DYCgU-3iIGWhfeMWR1PB-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535" y="230" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="DYCgU-3iIGWhfeMWR1PB-4" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;taskMarker=abstract;" vertex="1" parent="1">
-          <mxGeometry x="420" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="200" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DYCgU-3iIGWhfeMWR1PB-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DYCgU-3iIGWhfeMWR1PB-5" target="DYCgU-3iIGWhfeMWR1PB-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535" y="329.95348837209303" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="DYCgU-3iIGWhfeMWR1PB-5" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;taskMarker=abstract;" vertex="1" parent="1">
-          <mxGeometry x="425" y="300" width="115" height="60" as="geometry" />
+          <mxGeometry x="370" y="300" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DYCgU-3iIGWhfeMWR1PB-9" value="Form" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="310" width="60" height="30" as="geometry" />
+        <mxCell id="DYCgU-3iIGWhfeMWR1PB-9" value="Form" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="305" y="310" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DYCgU-3iIGWhfeMWR1PB-10" value="E-mail" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="200" width="60" height="30" as="geometry" />
+        <mxCell id="DYCgU-3iIGWhfeMWR1PB-10" value="E-mail" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="285" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DYCgU-3iIGWhfeMWR1PB-11" value="Records Office receives the forms" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="380" y="215" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DYCgU-3iIGWhfeMWR1PB-12" value="Records Office receives the forms" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="380" y="315" width="57.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DYCgU-3iIGWhfeMWR1PB-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=7;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DYCgU-3iIGWhfeMWR1PB-14" target="DYCgU-3iIGWhfeMWR1PB-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DYCgU-3iIGWhfeMWR1PB-14" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" vertex="1" parent="1">
+          <mxGeometry x="460" y="252.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DYCgU-3iIGWhfeMWR1PB-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=7;" edge="1" parent="1" source="DYCgU-3iIGWhfeMWR1PB-17" target="DYCgU-3iIGWhfeMWR1PB-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DYCgU-3iIGWhfeMWR1PB-17" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;taskMarker=abstract;" vertex="1" parent="1">
+          <mxGeometry x="540" y="256.25" width="90" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DYCgU-3iIGWhfeMWR1PB-18" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Records Office files and processes the request&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="545" y="265" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="DYCgU-3iIGWhfeMWR1PB-21" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;taskMarker=abstract;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="650" y="255" width="80" height="43.75" as="geometry" />
+        </mxCell>
+        <mxCell id="DYCgU-3iIGWhfeMWR1PB-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=7;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DYCgU-3iIGWhfeMWR1PB-24" target="3zHVbhgSwmODAuP6RIVM-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="276.88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DYCgU-3iIGWhfeMWR1PB-24" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Program coordinater receives the process and notifies faculties&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="264.38" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="DYCgU-3iIGWhfeMWR1PB-26" value="Credit course is given" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="755" y="289.38" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DYCgU-3iIGWhfeMWR1PB-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="DYCgU-3iIGWhfeMWR1PB-27" target="3zHVbhgSwmODAuP6RIVM-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DYCgU-3iIGWhfeMWR1PB-27" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;taskMarker=abstract;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="70" y="310" width="65" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DYCgU-3iIGWhfeMWR1PB-28" value="Wants to transfer course credits" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="72.5" y="319.07" width="60" height="30.62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
